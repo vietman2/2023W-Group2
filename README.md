@@ -4,6 +4,12 @@
 ### 2조: Daily Todo Checklist 앱
 ### 이정호, 윤동현, 박건우
 
+### To start programming
+Run the following commands in Ubuntu to download the skeleton code for the project.
+```shell
+git clone https://github.com/vietman2/2023W-Group2
+```
+
 ### To Start Development Server
 ```shell
 cd app
